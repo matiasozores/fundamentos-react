@@ -1,21 +1,6 @@
-# React Fundamentals: Basic Exercises
+# Fundamentos de React: Ejercicios básicos
 
 Este repositorio contiene una serie de ejercicios diseñados para demostrar y poner en práctica conceptos básicos de **React**. A lo largo de los ejercicios, se aborda la creación y manipulación de componentes, la gestión del estado, la comunicación entre componentes, el renderizado condicional y la interacción con el DOM.
-
-## Índice
-
-1. [Ejercicio 1 — Estructura base](#ejercicio-1-estructura-base)
-2. [Ejercicio 2 — Comunicación entre componentes](#ejercicio-2-comunicación-entre-componentes)
-3. [Ejercicio 3 — Renderizado condicional](#ejercicio-3-renderizado-condicional)
-4. [Ejercicio 4 — Listas dinámicas](#ejercicio-4-listas-dinámicas)
-5. [Ejercicio 5 — Estado y eventos](#ejercicio-5-estado-y-eventos)
-6. [Ejercicio 6 — Hook de efecto](#ejercicio-6-hook-de-efecto)
-7. [Ejercicio 7 — Referencias](#ejercicio-7-referencias)
-8. [Ejercicio 8 — Composición](#ejercicio-8-composición)
-9. [Ejercicio 9 — Interacción entre componentes](#ejercicio-9-interacción-entre-componentes)
-10. [Ejercicio 10 — Evaluación integradora](#ejercicio-10-evaluación-integradora)
-
----
 
 ## Ejercicio 1 — Estructura base
 
@@ -97,5 +82,5 @@ La aplicación se compone de varios componentes bien estructurados, aplicando to
 
 1. Clona el repositorio:
    ```bash
-   git clone https://github.com/tuusuario/react-fundamentals.git
+   git clone https://github.com/matiasozores/fundamentos-react.git
    ```
